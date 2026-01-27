@@ -82,9 +82,6 @@ I’m always happy to connect with people who care about **data, economics, and 
 ---
 
 ## 📈 GitHub Stats
-
-> _(Replace mayonorris below with your username)_
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayonorris&show_icons=true&theme=default)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayonorris&layout=compact)
