@@ -81,13 +81,6 @@ I’m always happy to connect with people who care about **data, economics, and 
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayonorris&show_icons=true&theme=default)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayonorris&layout=compact)
-
----
-
 ## 👀 Profile Visitors
 
 ![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=0e75b6&style=flat)
