@@ -1,93 +1,47 @@
-## Hi there 👋 I'm Mayo
+# Hi, I'm Mayo 👋
 
-**Aspiring Software & Data Developer** with a background as an **Ingénieur Statisticien Économiste (ISE)**.  
-I love turning **economic and financial data** into real-world tools: APIs, dashboards, and web apps that help people make better decisions.
+**Econometrician & Data Scientist** — Ingénieur Statisticien Économiste (ISE) based in Lomé, Togo.
 
-- 🔭 Currently working on: web apps and dashboards for SMEs and digital finance  
-- 🌱 Learning: modern JavaScript, back-end APIs, and front-end frameworks  
-- 🎯 Interests: time series, financial modelling, national statistics, and product development  
-- 🤝 Open to: collaborations in data, fintech, and web development
----
+I turn economic and financial data into reliable analyses, forecasts, and decision tools. My work spans official statistics (national accounts, industrial production indices), World Bank-funded survey operations, macro-financial research, and the software that makes it all reproducible.
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-- R · Python · JavaScript · SQL · HTML · CSS
-
-**Data & Analytics**
-
-- R (tidyverse, Shiny, time series)  
-- Python (pandas, NumPy, basic ML)  
-- Stata · SPSS · EViews
-
-**Databases & BI**
-
-- SQL (PostgreSQL / MySQL basics)  
-- Power BI · Excel (Power Query, advanced formulas)
-
-**Web & Back-End (in progress)**
-
-- REST APIs (Python/JavaScript fundamentals)  
-- Front-end basics: HTML5, CSS3, React JS
-
-**Tools & Workflow**
-
-- Git & GitHub · VS Code · RStudio  
-- Jupyter · Shiny Server (basic)  
+> *From evidence to decisions. From models to digital systems.*
 
 ---
 
-## 🚀 Selected Projects
+## 🔬 What I do
 
-Here are a few projects that reflect what I like to build:
+- **Econometric modeling** — ARIMA/SARIMA, VAR, GARCH, ARDL, panel models (fixed, random, threshold effects), IV/GMM
+- **Time series forecasting** — improved forecast precision by **+20%** on official economic indicators
+- **Data engineering for statistics** — survey data pipelines, quality controls, validation (supervised **15 field teams** on a World Bank statistics project)
+- **Analytics products** — R Shiny dashboards, Power BI reports, FastAPI services
+- **Research** — macro-financial vulnerabilities, public debt & growth, early-warning systems
 
-### 📊 Stock-Market Shock Duration Model (R)
+## 📜 Selected work
 
-Algorithm in R to estimate how long a financial shock takes to return to equilibrium, developed for a PhD thesis in finance.
+| Work | Description |
+|------|-------------|
+| 📄 [Public Debt & Growth in Sub-Saharan Africa (MPRA #120429)](https://mpra.ub.uni-muenchen.de/120429/) | Co-authored working paper — dynamic panel threshold model, 2000–2020, identifying an optimal debt level of 58% of GDP |
+| ✍️ [Using Recursion to Compute the Power of a Matrix in R](https://dev.to/mayonorris/using-recursion-to-compute-the-power-of-a-matrix-in-r-52b8) | dev.to article on functional programming applied to linear algebra |
+| 🎓 [ALX Software Engineering coursework](https://github.com/mayonorris?tab=repositories) | C ([simple_shell](https://github.com/mayonorris/simple_shell)), Python ([alx_be_python](https://github.com/mayonorris/alx_be_python)), JavaScript ([Form-Creation-Validation](https://github.com/mayonorris/Form-Creation-Validation)), HTML/CSS |
 
-- 🧮 Time series & econometrics  
-- 📈 Focus on financial stability and risk  
-- 🔗 Repo: [Stock Shock Duration Model](to be added he) _(link comming)_
----
+🚧 **Shipping next:** an interactive Shiny dashboard of Togolese economic indicators (with automated seasonal adjustment) and a stock-market shock duration model in R. Watch this space.
 
-### 📉 Economic Time Series Dashboard (Shiny)
+## 🛠️ Tech stack
 
-Interactive dashboard for visualizing and deseasonalizing economic indicators (e.g., IMAE, quarterly national accounts).
+**Statistics & ML** — R (tidyverse, Shiny) · Python (pandas, statsmodels, scikit-learn) · Stata · EViews  
+**Data & BI** — SQL (PostgreSQL, MySQL) · Power BI · Excel (Power Query, Power Pivot)  
+**Software** — FastAPI · JavaScript · HTML/CSS · Git · LaTeX
 
-- 📊 R Shiny, time series, seastests/seasonal  
-- 🔍 Focus on national statistics and policy insights  
-- 🔗 Repo: [Economic TS Dashboard](Link here very soon)
+## 🎓 Credentials
 
----
+- Ingénieur Statisticien Économiste (ISE)
+- ALX Certifications: AI for Developers I & II · Python Programming · Data Analytics · Front-End & Back-End Web Development · Professional Foundations
+- Machine Learning certification · R programming training
 
-### 💼 SME Budgeting & Analytics App (Web)
+## 🤝 Let's connect
 
-Prototype of a web app to help SMEs track expenses, budgets, and basic financial indicators.
+- 💼 LinkedIn: [mayo-takemsi-kadanga](https://www.linkedin.com/in/mayo-takemsi-kadanga)
+- ✍️ dev.to: [@mayonorris](https://dev.to/mayonorris)
+- ✉️ kadanganorris@gmail.com
 
-- 💻 HTML/CSS/JavaScript  
-- 📊 Simple dashboards and summaries  
-- 🔗 Repo: [SME Budgeting App](https://github.com/YOUR_GITHUB_USERNAME/sme-budgeting-app)
-
----
-
-## 🔗 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG)  
-- 🌐 Portfolio / Website: _coming soon_  
-- ✉️ Email: kadanganorris@gmail.com 
-
-I’m always happy to connect with people who care about **data, economics, and software**.
-
----
-
-## 👀 Profile Visitors
-
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=0e75b6&style=flat)
-
----
-
-### ✅ Call to Action
-
-📌 **Check out my pinned repositories below** to see what I’m building.  
-💬 **Feel free to open an issue or reach out** if you’d like to discuss data, finance, or dev ideas.
+Open to collaborations in **data science, econometrics, fintech, and analytics engineering** — and to freelance projects in time series forecasting, survey data analysis, and dashboard development.
