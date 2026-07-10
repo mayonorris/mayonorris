@@ -45,15 +45,6 @@ Currently building an interactive dashboard of Togolese economic indicators (R S
 | [alx_be_python](https://github.com/mayonorris/alx_be_python) | Back-end Python: OOP, APIs, data structures (ALX Backend). |
 | [Form-Creation-Validation](https://github.com/mayonorris/Form-Creation-Validation) | JavaScript: DOM manipulation, forms, asynchronous validation. |
 
-## GitHub stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mayonorris&show_icons=true&theme=graywhite&hide_border=true" alt="GitHub stats" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayonorris&layout=compact&theme=graywhite&hide_border=true" alt="Top languages" height="160" />
-
-</div>
-
 ## Education and credentials
 
 - Ingénieur Statisticien Économiste (ISE), ENEAM
