@@ -10,6 +10,7 @@ Turning economic and financial data into reliable models, decision tools, and di
 
 Lomé, Togo
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square&logo=vercel&logoColor=white)](https://mayokadanga-portfolio.vercel.app/en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayo-takemsi-kadanga)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/mayonorris)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kadanganorris@gmail.com)
@@ -65,7 +66,7 @@ I connect quantitative methods with product development, moving from raw data an
 ## Currently building
 
 - [FinMath Lab](https://github.com/mayonorris/fullstack-data-science/tree/main/projects/finmath-lab), a progressive Python project for financial mathematics, market analytics, econometrics, and simulation. Current modules cover returns, volatility, annualization, CAGR, and the Sharpe ratio.
-- A bilingual portfolio and research hub combining Next.js for professional case studies with Quarto for reproducible research and technical writing.
+- A bilingual portfolio and research hub combining Next.js for professional case studies with Quarto for reproducible research and technical writing. Live at [mayokadanga-portfolio.vercel.app](https://mayokadanga-portfolio.vercel.app/en).
 
 ## Background
 
